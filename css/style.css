@@ -1,0 +1,48 @@
+header {
+  background-color: #cf2626;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+  position: sticky;
+  top: 0;
+}
+
+a {
+  color: white;
+  margin: 0 15px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+main {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  max-width: 878px;
+  margin: 0 auto;
+}
+section {
+  padding: 2rem;
+  margin: 1rem 0;
+}
+
+footer {
+  background-color: #cf2626;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  position: relative;
+}
+
+.video-section {
+  text-align: center;
+}
+
+.video-section video {
+  width: 100%;
+   height: auto;
+}
