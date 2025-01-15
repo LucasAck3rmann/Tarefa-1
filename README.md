@@ -26,3 +26,16 @@ Durante o desenvolvimento, foram aplicados os seguintes conceitos:
 - Aplicação de estilos básicos para melhorar a apresentação visual.
 - Definição de largura máxima para o conteúdo utilizando `max-width`.
 - Centralização de elementos e ajuste de espaçamento com `margin` e `padding`.
+
+
+<div align="center">
+  <a href="https://www.3035tech.com/" target="_blank"
+  ><img
+    src="https://d9hhrg4mnvzow.cloudfront.net/lp.3035tech.com/96c1669d-logo-teach-horiz-branco_1000000000000000000028.png"
+    style="
+      width: 100px;
+      padding: 10px;
+      border-radius: 10px;
+    "
+  /></a>
+</div>
