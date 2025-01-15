@@ -37,5 +37,6 @@ Durante o desenvolvimento, foram aplicados os seguintes conceitos:
       padding: 10px;
       border-radius: 10px;
     "
+     target="_blank"
   /></a>
 </div>
